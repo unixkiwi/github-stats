@@ -1,4 +1,4 @@
-# Just a repo for the GitHub stats SVG in my README
+# Just a repo created from a template for the GitHub stats SVG in my README
 
 
 
