@@ -1,4 +1,9 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+# Just a repo for the GitHub stats SVG in my README
+
+
+
+
+## [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
